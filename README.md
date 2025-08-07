@@ -51,8 +51,8 @@ Hello! I'm a **Business Technology Analyst** who thrives at the intersection of 
 ## ✨ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BCS-041&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BCS-041&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
 </p>
 
 ---
