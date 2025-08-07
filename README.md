@@ -1,6 +1,6 @@
 <!-- HEADER ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00A9FF&center=true&vCenter=true&width=800&lines=👋+Hey%2C+I'm+Prosperitas!;Business+Technology+Analyst+%7C+BI+%7C+Automation;Turning+Data+into+Decisions.;Power+BI+%7C+Tableau+%7C+UiPath+%7C+SQL+%7C+Excel" alt="Typing animation header">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00A9FF&center=true&vCenter=true&width=800&lines=👋+Hey%2C+I'm+Prosperitas!;Business+Technology+Analyst+%7C+BI+%7C+Automation;Turning+Data+into+Decisions.;Power+BI+%7C+Tableau+%7C+UiPath+%7C+SQL+%7C+Excel" alt="Typing animation header">
 </p>
 
 <p align="center">
@@ -8,6 +8,7 @@
 </p>
 
 ---
+
 
 ## 👨‍💼 About Me
 
